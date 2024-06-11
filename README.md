@@ -19,7 +19,7 @@
 - [ ] Builder
 - [ ] Prototype
 
-### ${\textsf{\color{green}구조 패턴(Structural Pattern}}$
+### ${\textsf{\color{green}구조 패턴(Structural Pattern)}}$
 - [ ] Adapter
 - [ ] Composite
 - [ ] Decorator
