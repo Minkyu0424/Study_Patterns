@@ -25,7 +25,7 @@
 - [ ] Decorator
 - [ ] Facade
 - [ ] Flyweight
-- [ ] Proxy
+- [x] Proxy
 - [ ] Memento
 - [ ] Observer
 - [ ] State
