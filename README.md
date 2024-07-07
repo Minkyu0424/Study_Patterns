@@ -1,4 +1,4 @@
-## Study_Patterns 디자인 패턴에 대해 공부하고 기록합니다.
+## Study_Patterns 궁금한 디자인 패턴에 대해 공부하고 기록합니다.
 
 ### 다음 요소들을 고려하며 패턴들을 공부하자.
 
@@ -11,30 +11,6 @@
 <br>
 
 ## 진도표
-
-### ${\textsf{\color{blue}생성 패턴 (Creational Pattern)}}$
-- [ ] Singleton
-- [ ] Abstract Factory
-- [ ] Factory Method
-- [ ] Builder
-- [ ] Prototype
-
-### ${\textsf{\color{green}구조 패턴(Structural Pattern)}}$
-- [ ] Adapter
-- [ ] Composite
-- [ ] Decorator
-- [ ] Facade
-- [ ] Flyweight
 - [x] Proxy
-- [ ] Memento
-- [ ] Observer
-- [ ] State
-- [ ] Strategy
-- [ ] Template Method
-
-
-### ${\textsf{\color{orange}행동 패턴(Behavioral Pattern)}}$
-- [ ] Command
-- [ ] Interpreter
-- [ ] Iterator
-- [ ] Mediator
+- [x] Provider
+- [x] Container
